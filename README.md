@@ -1,6 +1,6 @@
-# Shubh Sankalp Das (also known as Shubh Das)
+# Shubh Sankalp Das 
 
-Product @ Dezerv | Placement Coordinator, BITS Pilani
+Product @ Dezerv 
 
 Connect with me:
 
@@ -12,6 +12,4 @@ Medium : https://medium.com/@shubhsankalpdas/
 
 Substack : https://substack.com/@shubhdas/
 
-Also referred to as: Shubh Das
-Alternate profile: https://github.com/Shubh02082002/shubhdas
 
